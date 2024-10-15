@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 from io import BytesIO
 
-st.title("Image Conversion Web App")
+st.title("Image Conversion Tools")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
 

@@ -17,6 +17,7 @@ Welcome to the **Image Conversion Tools**, a powerful and user-friendly tool bui
 - **Edge Detection**: Utilize the Sobel operator for edge detection.
 - **Canny Edge Detection**: Implement Canny edge detection for sharp edges and outlines.
 
+
 ## 🚀 How to Run the App Locally
 
 Follow these simple steps to set up and run the app on your machine:
@@ -24,7 +25,7 @@ Follow these simple steps to set up and run the app on your machine:
 ### Step 1: Clone the Repository
 
 ```bash
-$ git clone https://github.com/yourusername/Image-Conversion-Tools.git
+$ git clone https://github.com/VirajBhagiya/Image-Conversion-Tools.git
 $ cd Image-Conversion-Tools
 ```
 
@@ -48,11 +49,14 @@ $ streamlit run app.py
 
 Open your web browser and navigate to http://localhost:8501 to start using the app!
 
+
 ## 🖼️ Explore the Live Demo
-Curious to see the app in action? Check out our live demo: [Image Conversion Web App](https://toolsforimage.streamlit.app/)
+Want to see the app in action? Check out the live demo: [Image Conversion Tools](https://toolsforimage.streamlit.app/)
+
 
 ## 📄 License
 This project is licensed under the Apache-2.0 License. See the LICENSE file for more information.
 
-## 🛠️ Contributing
+
+## 🛠️ Contributions
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
